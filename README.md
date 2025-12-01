@@ -13,6 +13,10 @@ Hu Moments: Invariância a transformações geométricas, útil para reconhecime
 SIFT: Detecção e descrição de pontos de interesse invariantes a escala e rotação.
 
 # Link do Repositório
+https://github.com/pmsanches/Processamento-Digital-Imagem
 
 # Classificador e acurácia
-
+Local Binary Pattern:
+    Multilayer Perceptron: 89.29%  
+    Random Forest: 89.29% 
+    Support Vector Machine: 91.07%  
