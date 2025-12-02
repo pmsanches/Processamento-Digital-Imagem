@@ -22,7 +22,8 @@ https://colab.research.google.com/drive/1Ihla9WLNXTXVvL9V0SF1bu1kIg21QvTS?usp=sh
 https://youtu.be/lbzgUwCjw94
 
 # Classificador e acurácia
-Local Binary Pattern:
-    Multilayer Perceptron: 89.28%
-    Random Forest: 89.28%
-    Support Vector Machine: 91.07%
+SIFT:
+
+    Multilayer Perceptron: 98.21%
+    Random Forest: 96.43%
+    Support Vector Machine: 100%
