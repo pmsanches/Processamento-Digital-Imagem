@@ -18,6 +18,9 @@ https://github.com/pmsanches/Processamento-Digital-Imagem
 # Link do Google Colab
 https://colab.research.google.com/drive/1Ihla9WLNXTXVvL9V0SF1bu1kIg21QvTS?usp=sharing
 
+# Link para a apresentação
+https://youtu.be/lbzgUwCjw94
+
 # Classificador e acurácia
 Local Binary Pattern:
     Multilayer Perceptron: 89.28%
