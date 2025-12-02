@@ -15,8 +15,11 @@ SIFT: Detecção e descrição de pontos de interesse invariantes a escala e rot
 # Link do Repositório
 https://github.com/pmsanches/Processamento-Digital-Imagem
 
+# Link do Google Colab
+https://colab.research.google.com/drive/1Ihla9WLNXTXVvL9V0SF1bu1kIg21QvTS?usp=sharing
+
 # Classificador e acurácia
 Local Binary Pattern:
-    Multilayer Perceptron: 89.29%  
-    Random Forest: 89.29% 
-    Support Vector Machine: 91.07%  
+    Multilayer Perceptron: 89.28%
+    Random Forest: 89.28%
+    Support Vector Machine: 91.07%
